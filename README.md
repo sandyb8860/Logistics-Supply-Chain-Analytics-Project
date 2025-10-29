@@ -39,7 +39,8 @@
 - Develop interactive Power BI dashboard for KPI visualization
 - Generate actionable recommendations for business improvement
 
----
+<img width="2148" height="976" alt="image" src="https://github.com/user-attachments/assets/26a78947-59e1-4ce1-bf5a-a0ad36690a23" />
+
 
 ## **🔬 Methodology**
 
